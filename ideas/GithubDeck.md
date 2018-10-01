@@ -17,5 +17,3 @@ This is what it will looks like
 - Todo list
 
 May be will usefull if last deck/list can be customised by user or integration with Trello API.
-
-[Repo](https://github.com/byurhanbeyzat/github-deck)
